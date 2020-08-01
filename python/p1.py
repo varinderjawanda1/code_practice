@@ -27,9 +27,13 @@ for a in range(y):
 #exercise 3
 
 y = str(raw_input("Enter your name:"))
-x = len(y)
-def a():
-    print y
+def evenReturn(y):
+#    print y
+    x = len(y)
+#    print x
     for i in range(x):
-        if i %  2:
-            return y[i]
+        if i % 2:
+            print y[i]
+evenReturn(y)
+
+#exercise 4
