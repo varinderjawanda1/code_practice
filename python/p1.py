@@ -37,3 +37,10 @@ def evenReturn(y):
 evenReturn(y)
 
 #exercise 4
+n = int(raw_input("Enter alter number:"))
+def alterString (y, n):
+    x = len(y)
+    a = x - n
+    print y [a:]
+
+alterString(y,n)
