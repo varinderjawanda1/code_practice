@@ -44,3 +44,17 @@ def alterString (y, n):
     print y [a:]
 
 alterString(y,n)
+
+# exercise 5
+
+#x = [int (y) for y in raw_input("Enter values:")]
+
+#print x
+
+#exercise 6
+
+y = "Tom is nice person. Tom help people. Tom lives in USA"
+y = str(y)
+x = y.count(Tom)
+print x
+
