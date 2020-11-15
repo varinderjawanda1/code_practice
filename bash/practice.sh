@@ -9,7 +9,7 @@ file_organizer ()
 pwd && ls -lrt
 fileName=$(ls -lrt |test.txt)
 If ${fileName}==test.txt
-  then chmod 777 ${fileName} && ls -lrt
+  then `chmod 777 ${fileName} && ls -lrt`
  else echo """ text.txt doesn't exit"""
 }
 file_organizer ()
