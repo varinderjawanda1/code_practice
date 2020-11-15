@@ -1,3 +1,5 @@
 #!/bin/bash
 owner=Tom
-echo """ Hello ${owner}, Shell is awesome"""
+host="hostname -i"
+PID="ps -ef |grep bash"
+echo """ Hello ${owner}, This shell is running from ${host} and process ID is : ${PID}"""
