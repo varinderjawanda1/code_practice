@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Shell is awesome"
+owner=Tom
+echo """ Hello ${owner}, Shell is awesome"""
