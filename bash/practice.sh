@@ -4,7 +4,7 @@ host=$(hostname -i)
 PID=$(echo $$)
 
 processVerifier () {
-if [[ ${owner}=Tom ]] ;
+if [$owner eq Tom] ;
 
     then echo """ Hello ${owner}, This shell is running from ${host} and process ID is : ${PID}"""
 else
