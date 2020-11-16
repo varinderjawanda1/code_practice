@@ -1,16 +1,14 @@
 #!/bin/bash
-owner=Tom
+owner=Rob
 host=$(hostname -i)
 PID=$(echo $$)
-echo """ Hello ${owner}, This shell is running from ${host} and process ID is : ${PID}"""
 
-file_organizer ()
-{
-pwd && ls -lrt
-fileName=$(ls -lrt |test.txt)
-If ${fileName}==test.txt
-  then `chmod 777 ${fileName} && ls -lrt`
- else echo """ text.txt doesn't exit"""
+processVerifier () {
+if [[ ${owner}=Tom ]] ;
+
+    then echo """ Hello ${owner}, This shell is running from ${host} and process ID is : ${PID}"""
+else
+    echo """Owner is not Tom"""
+fi
 }
-file_organizer ()
-
+processVerifier

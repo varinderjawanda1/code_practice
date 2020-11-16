@@ -1,3 +1,4 @@
+# https://pynative.com/python-input-and-output-exercise/
 #exercise 1
 
 x = raw_input("Enter first number:")
@@ -53,8 +54,17 @@ alterString(y,n)
 
 #exercise 6
 
-y = "Tom is nice person. Tom help people. Tom lives in USA"
-y = str(y)
-x = y.count(Tom)
-print x
+#y = "Tom is nice person. Tom help people. Tom lives in USA"
+#y = str(y)
+#x = y.count(Tom)
+#print x
 
+#exercise 7
+
+z = [tom, jerry, sherry, harry]
+z = str(z)
+x = len(z)
+if z[0:] == z[:x]:
+    print "First and last elements are same"
+else:
+    print "First and last elements are different"
