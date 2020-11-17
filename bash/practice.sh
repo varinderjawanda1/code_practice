@@ -13,6 +13,8 @@ if [ stat -c %U = $USER ] ; then
 else
     echo "you do not have permissions to change permissions of this script"
 
+fi
+
 # processVerifier function verifies user and return process information
 
 processVerifier () {
