@@ -1,4 +1,7 @@
 #!/bin/bash
+# URL to spin online linux server for practice
+# https://cocalc.com/projects/54203051-a3aa-4187-a482-afaf46f348fb/files/Welcome%20to%20CoCalc.term?session=default
+#
 x=Tom
 host=$(hostname -i)
 PID=$(echo $$)
