@@ -9,7 +9,7 @@ PID=$(echo $$)
 # Apply execute permissions to bash
 
 if [ 'stat -c %U' = '$USER' ] ; then
-    chmod +x bash.sh
+    chmod +x bash.sh && ls -lrt
 else
     echo "you do not have permissions to change permissions of this script"
 
