@@ -1,0 +1,9 @@
+---
+- name: install httpd
+  hosts: all
+  become: yes
+  tasks:
+    -name : Install latest httpd version
+    yum
+    name: httpd
+    state: latest
