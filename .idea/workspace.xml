@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8ced78e-abf2-4a4e-92e2-2b828fbe1794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/defaults/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/handlers/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/meta/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/tests/inventory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/tests/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ansible/file_copy/vars/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reference_ui_react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference_app/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lyNf5sB2VSZi7Z8CtHKQdzwZmN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8ced78e-abf2-4a4e-92e2-2b828fbe1794" name="Default Changelist" comment="" />
+      <created>1608565471820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608565471820</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
