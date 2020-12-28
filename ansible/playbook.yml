@@ -2,11 +2,13 @@
 - name: Copy file with owner and permissions
   hosts: MAC
   connection: local
+  vars_files:
+    - variables.yml
   tasks:
     - name: Coping folder
       copy:
-        src: /Users/*/ansible/file_copy/
-        dest: /tmp
+        src: "{{src}}"
+        dest: "{{dest}}"
 
     - name: checking space
       setup:

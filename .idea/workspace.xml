@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8ced78e-abf2-4a4e-92e2-2b828fbe1794" name="Default Changelist" comment="Refactoring">
+    <list default="true" id="c8ced78e-abf2-4a4e-92e2-2b828fbe1794" name="Default Changelist" comment="Ansible playbook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ansible/hostfile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ansible/hostfile.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ansible/playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ansible/playbook.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansible/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ansible/variables.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608575787952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ansible playbook">
+      <created>1609186548420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609186548420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +80,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+    <MESSAGE value="Ansible playbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ansible playbook" />
   </component>
 </project>
