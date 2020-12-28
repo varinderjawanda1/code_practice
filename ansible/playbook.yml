@@ -1,14 +1,14 @@
 ---
-- name: install httpd
-  hosts: all
-  become: yes
+- name: Copy file with owner and permissions
+  hosts: MAC
+  connection: local
   tasks:
-    - name : Install latest httpd version
-    yum:
-    name: httpd
-    state: latest
-    - name: Start httpd
-      service:
-        name: httpd
-        enable: true
-        starte: started
+    - name: Coping folder
+      copy:
+        src: /Users/*/ansible/file_copy/
+        dest: /tmp
+
+    - name: checking space
+      setup:
+       gather_subset:
+       - 'hardware'

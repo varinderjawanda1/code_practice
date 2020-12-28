@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8ced78e-abf2-4a4e-92e2-2b828fbe1794" name="Default Changelist" comment="Refactoring">
-      <change afterPath="$PROJECT_DIR$/pipeline/jenkins.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference_ui_react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reference_ui_react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansible/hostfile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ansible/hostfile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansible/playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ansible/playbook.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
